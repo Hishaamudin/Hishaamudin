@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pytorch for Deep Learning**
 
-- 📫 How to reach me **hizzuhishaam2002@gmail.com**
+- 📫 How to reach me **hishaamofficial1107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
